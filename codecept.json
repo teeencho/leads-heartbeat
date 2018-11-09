@@ -4,7 +4,7 @@
   "output": "./output",
   "helpers": {
     "Puppeteer": {
-      "url": "https://qa.consumeraffairs.com",
+      "url": "",
       "show": true,
       "waitForNavigation": ["networkidle0", "domcontentloaded"],
       "windowSize": "1280x1024"
